@@ -1,6 +1,6 @@
 - Hi, I’m @Anton-tumurov
 - I’m interested in coding
-- I’m currently learning japanese
+- I’m currently learning advanced python
 
 <!---
 Anton-tumurov/Anton-tumurov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
