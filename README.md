@@ -9,14 +9,18 @@ Welcome to my corner of GitHub! I'm a passionate young developer from South East
 - 🎓 High school student at Rochedale SHS
 - 💻 I build secure communication apps (Python, Tkinter, Inno Setup)
 - 🚀 Currently working on: **Crypt**, a privacy-first messaging tool
-- 🤝 Also mentoring a friend to join the dev team
+- 🤝 Also Mentoring and Educating Others in my Field
 - 📚 Learning more about APIs, UI/UX design, and collaborative coding
+- 😊 And just a chill guy!
+
+I started my programming journey experimenting with Arcade machines, then I got my first microprocessor -- A micro:bit, which I used to create many different programs, which I published here at github.com -- all at age 7.
+By age 9, I was building convoluted redstone machines in Minecraft, and by age 10, I learned line-based programming languages like Python and C++, which at age 12 I put to use in a school STEM project, building an affordable solar tracker for efficient Solar power; Our team won the WoS regional conference in 2024. My father is a lead IT Engineer at Shell Australia, and he is the one who first got me into Computers. I was born in Moscow, Russia, in a Mongolian-Belarus family surrounded by technology from age 4.
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Languages:** Python, HTML/CSS, Batch
+- **Languages:** Python, HTML/CSS, Batch (& Bash, and Powershell), (Arduino) C++, Advanced Scratch (Turbowarp level)
 - **Tools:** Tkinter, GitHub, Inno Setup, VS Code
 - **Interests:** Encryption, automation, developer tools, UI design
 
@@ -25,17 +29,15 @@ Welcome to my corner of GitHub! I'm a passionate young developer from South East
 ## 🔧 Projects
 
 ### 🔐 [Crypt](https://github.com/Anton-tumurov/Crypt)
-> A messaging and encryption tool made for students, by a student.
+> A (rebellious) messaging and encryption privacy tool made for students, by a student.
 
-- GUI with Python/Tkinter
-- Local + server functionality
-- In active development — documentation + IDE coming soon
+- In active development — new features coming soon
 
 ---
 
 ## 📫 Get in Touch
 
-- ✉️ updates.cryptexe@outlook.com
+- ✉️ updates.cryptexe@outlook.com (Only Crypt Related)
 - 🌐 https://bit.ly/Cryptexe
 
 ---
@@ -44,7 +46,7 @@ Welcome to my corner of GitHub! I'm a passionate young developer from South East
 
 - ✅ Build secure student tools (done)
 - ✅ Teach someone else to code (in progress)
-- 🔜 Launch Crypt officially
+- 🔜 Spread Crypt so eventually everyone will know about it
 - 🧠 Learn JavaScript + Flask/Django next
 
 Thanks for stopping by. Stay Cryptic. Stay Curious.  
