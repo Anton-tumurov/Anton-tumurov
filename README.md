@@ -6,7 +6,7 @@ Welcome to my corner of GitHub! I'm a passionate young developer from South East
 
 ## 🧠 About Me
 
-- 🎓 High school student at Rochedale SHS
+- 🎓 High school student
 - 💻 I build secure communication apps (Python, Tkinter, Inno Setup)
 - 🚀 Currently working on: **Crypt**, a privacy-first messaging tool
 - 🤝 Also Mentoring and Educating Others in my Field
